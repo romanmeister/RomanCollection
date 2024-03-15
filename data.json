@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What is Kepler's first law of planetary motion?",
+    "answer": "Kepler's first law states that planets move in elliptical orbits around the Sun, with the Sun at one of the two foci of the ellipse."
+  },
+  {
+    "question": "What is the significance of Kepler's second law?",
+    "answer": "Kepler's second law, also known as the law of equal areas, states that a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time."
+  },
+  {
+    "question": "Explain Kepler's third law of planetary motion.",
+    "answer": "Kepler's third law, also known as the harmonic law, states that the square of the orbital period of a planet is directly proportional to the cube of the semi-major axis of its orbit."
+  },
+  {
+    "question": "What is meant by orbital eccentricity?",
+    "answer": "Orbital eccentricity measures how much an orbit deviates from a perfect circle. It is a dimensionless parameter ranging from 0 (circular orbit) to 1 (parabolic orbit)."
+  },
+  {
+    "question": "How do you calculate the orbital velocity of a satellite?",
+    "answer": "The orbital velocity of a satellite can be calculated using the formula: orbital velocity = √(G * M / r), where G is the gravitational constant, M is the mass of the central body, and r is the distance from the satellite to the center of the central body."
+  },
+  {
+    "question": "What factors affect the orbital period of a satellite?",
+    "answer": "The orbital period of a satellite is primarily affected by the mass of the central body it orbits and the semi-major axis of its orbit, as per Kepler's third law."
+  },
+  {
+    "question": "What is the difference between geostationary and geosynchronous orbits?",
+    "answer": "Geostationary orbits are a specific type of geosynchronous orbit where the satellite orbits the Earth directly above the equator and matches the Earth's rotation, appearing stationary relative to a fixed point on the Earth's surface. Geosynchronous orbits, on the other hand, have an orbital period equal to the rotational period of the Earth but may have inclined orbits."
+  },
+  {
+    "question": "What is the significance of the Hohmann transfer orbit?",
+    "answer": "The Hohmann transfer orbit is an energy-efficient way to transfer between two coplanar circular orbits. It involves two engine burns: one to raise the satellite's orbit and another to circularize it at the desired altitude."
+  },
+  {
+    "question": "Explain the concept of orbital decay.",
+    "answer": "Orbital decay refers to the gradual decrease in the altitude of a satellite's orbit due to factors such as atmospheric drag or gravitational perturbations. Eventually, if not corrected, the satellite may re-enter the Earth's atmosphere."
+  },
+  {
+    "question": "What is the Oberth effect?",
+    "answer": "The Oberth effect describes the increased efficiency of rocket propulsion when used at high speeds, such as during a powered descent or when performing a maneuver like a Hohmann transfer. This effect is due to the increased kinetic energy available for conversion into mechanical energy."
+  },
+  {
+    "question": "Define escape velocity and its relevance in orbital mechanics.",
+    "answer": "Escape velocity is the minimum velocity required for an object to break free from the gravitational influence of a massive body without further propulsion assistance. In orbital mechanics, it is relevant when considering the trajectory needed to leave Earth's orbit or to perform interplanetary missions."
+  },
+  {
+    "question": "What is a Lagrange point?",
+    "answer": "Lagrange points are locations in space where the gravitational forces and the orbital motion of a body create regions of relative stability. These points are found in the vicinity of two large bodies, such as the Earth and the Moon, where the gravitational forces balance out in such a way that a smaller object can orbit with them."
+  },
+  {
+    "question": "Explain the concept of orbital perturbations.",
+    "answer": "Orbital perturbations refer to small deviations from ideal orbital motion caused by gravitational interactions with other celestial bodies or non-uniformities in the gravitational field. These perturbations can lead to changes in the shape, orientation, or position of an orbit over time."
+  },
+  {
+    "question": "What is orbital resonance?",
+    "answer": "Orbital resonance occurs when the gravitational interaction between orbiting bodies causes their orbital periods to be related by a ratio of small integers. This phenomenon can lead to stable, repeating patterns in the orbits of celestial bodies."
+  },
+  {
+    "question": "Describe the two-body problem in celestial mechanics.",
+    "answer": "The two-body problem involves the motion of two point masses under the influence of their mutual gravitational attraction, ignoring all other forces and bodies. Solutions to this problem allow for the determination of orbits and trajectories in a simplified system."
+  },
+  {
+    "question": "What is the significance of the Roche limit?",
+    "answer": "The Roche limit is the minimum distance at which a celestial body, held together only by its own gravity, can remain intact in the presence of tidal forces exerted by another massive body. It determines the maximum size of a satellite that can orbit a planet without being torn apart."
+  },
+  {
+    "question": "Explain the concept of orbital inclination.",
+    "answer": "Orbital inclination is the angle between the plane of an orbit and a reference plane, usually the plane of the ecliptic or the equatorial plane of the central body. It describes how tilted an orbit is relative to the reference plane."
+  },
+  {
+    "question": "What factors influence the stability of orbits?",
+    "answer": "The stability of orbits is influenced by factors such as the mass and distribution of mass in the central body, perturbations from other celestial bodies, and the eccentricity and inclination of the orbit."
+  },
+  {
+    "question": "Define synchronous orbit and its applications.",
+    "answer": "A synchronous orbit is an orbit in which a satellite's orbital period matches the rotational period of the body it orbits. This results in the satellite appearing stationary relative to the surface of the body. Applications include communication satellites that maintain constant coverage over a specific region on Earth."
+  },
+  {
+    "question": "What is a polar orbit and when is it used?",
+    "answer": "A polar orbit is an orbit that passes over or nearly over the poles of the central body. It is often used for Earth observation satellites and reconnaissance missions because it provides global coverage and allows for imaging of the entire surface of the planet."
+  },
+  {
+    "question": "Explain the concept of orbital maneuverability.",
+    "answer": "Orbital maneuverability refers to the ability of a spacecraft to change its orbit or trajectory using propulsion systems. This capability is crucial for rendezvous, docking, station-keeping, and orbital transfers in space missions."
+  },
+  {
+    "question": "What is the significance of the Tsiolkovsky rocket equation?",
+    "answer": "The Tsiolkovsky rocket equation describes the relationship between the mass ratio of a rocket, the effective exhaust velocity of its propellant, and the change in velocity it can achieve. It is fundamental to the design and performance of rocket propulsion systems."
+  }
+]
